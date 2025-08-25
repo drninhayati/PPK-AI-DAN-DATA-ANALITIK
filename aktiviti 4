@@ -1,1 +1,16 @@
+AKTIVITI 4: 
 
+Dataset ringkas digunakan: 
+Markah Pelajar (10 orang) 
+Jualan Produk (2 bulan) 
+
+Arahan: Minta AI Tools hasilkan teks ringkas berdasarkan dataset. 
+
+Prompt: 
+“Berdasarkan dataset ini, tulis laporan 3 ayat tentang prestasi pelajar.”  
+“Berdasarkan dataset jualan ini, cadangkan strategi ringkas untuk bulan depan.” 
+
+Bandingkan output dari ChatGPT, Gemini & DeepSeek. 
+Mana yang lebih tepat? 
+Mana yang lebih jelas? 
+Ada bias atau kekurangan?: 
